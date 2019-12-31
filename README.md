@@ -1,6 +1,6 @@
 # AiXcoder Local User Guide
 
-(中文版)[https://github.com/aixcoder-plugin/localservice/blob/master/%E6%9C%AC%E5%9C%B0%E7%89%88aiXcoder%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md]
+Localized version: [中文版](https://github.com/aixcoder-plugin/localservice/blob/master/%E6%9C%AC%E5%9C%B0%E7%89%88aiXcoder%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
 
 AiXcoder Local is an AI-driven code completion tool. The supported programming languages ​​are Java and Python. IntelliJ IDEA, Eclipse, PyCharm, Android Studio, and Visual Studio Code (VS Code for short) are supported.
 
