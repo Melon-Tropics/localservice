@@ -18,7 +18,7 @@ Step 1: Download the plugin
 
 The plugins is installed to your IDE or editor. You can download the installation package of the plugin here according to the type of your IDE or editor:
 
-Download [IntelliJ](https://aixcoder.com/#/local), [Eclipse](https://aixcoder.com/#/local), [VS Code](https://marketplace.visualstudio.com/items?itemName=aixcoder-plugin.aixcoder&ssr=false#overview) plug-in packages.
+Download [IntelliJ](https://plugins.jetbrains.com/plugin/13574-aixcoder-ai-completion/), [Eclipse](https://aixcoder.com/#/local), [VS Code](https://marketplace.visualstudio.com/items?itemName=aixcoder-plugin.aixcoder&ssr=false#overview) plug-in packages.
 
 Step 2: Download the background service
 
