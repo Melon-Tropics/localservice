@@ -33,15 +33,15 @@ IDEA/PyCharm/Android Studio：
 
 **不要解压下载下来的zip文件！**
 
-!(File Settings Plugins Install plugin from disk)[https://github.com/aixcoder-plugin/localservice/raw/master/idea-install-zip.png]
+![File Settings Plugins Install plugin from disk](https://github.com/aixcoder-plugin/localservice/raw/master/idea-install-zip.png)
 
 VS Code：
 
-!(Extensions tab Install from VSIX)[https://github.com/aixcoder-plugin/localservice/raw/master/vscode-install-vsix.png]
+![Extensions tab Install from VSIX](https://github.com/aixcoder-plugin/localservice/raw/master/vscode-install-vsix.png)
 
 Eclipse 安装需要将jar拷贝到Eclipse安装目录的dropins文件夹下：
 
-!(复制 jar 到 dropins 文件夹)[https://github.com/aixcoder-plugin/localservice/raw/master/eclipse-installed.png]
+![复制 jar 到 dropins 文件夹](https://github.com/aixcoder-plugin/localservice/raw/master/eclipse-installed.png)
 
 第四步：安装服务
 
