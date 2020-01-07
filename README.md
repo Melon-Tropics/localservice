@@ -18,7 +18,7 @@ Step 1: Download the plugin
 
 The plugins is installed to your IDE or editor. You can download the installation package of the plugin here according to the type of your IDE or editor:
 
-Download [IntelliJ](https://plugins.jetbrains.com/plugin/13574-aixcoder-ai-completion/), [Eclipse](https://marketplace.eclipse.org/content/aixcoder-ai-code-completer), [VS Code](https://marketplace.visualstudio.com/items?itemName=aixcoder-plugin.aixcoder&ssr=false#overview) plug-in packages.
+Download [IntelliJ](https://plugins.jetbrains.com/plugin/13574-aixcoder-ai-completion/), [Eclipse](https://marketplace.eclipse.org/content/aixcoder-ai-code-completer) (Pending moderation), [VS Code](https://marketplace.visualstudio.com/items?itemName=aixcoder-plugin.aixcoder&ssr=false#overview) plug-in packages.
 
 Step 2: Download the background service
 
@@ -104,7 +104,7 @@ If everything is smooth, you should be able to see the installed service：
 There are many reasons for this phenomenon, we can check them one by one:
 
 * Reason 0: **Your language, IDE, or operating system is not supported**
-  The local version currently only supports the Java language, and the editor only supports IntelliJ IDEA, Eclipse, Android Studio, and Visual Studio Code. The operating system requirements are 64-bit Windows 7 or above, Mac OS X, or Linux with a GUI (such as Ubuntu). It is recommended to use Intel i5 or better CPU.
+  The local version currently only supports the Java and Python language, and we only have IntelliJ IDEA, Eclipse, Android Studio, and Visual Studio Code plugins. The operating system requirements are 64-bit Windows 7 or above, Mac OS X, or Linux with a GUI (such as Ubuntu). It is recommended to use Intel i5 or better CPU.
 * Reason 1: **The plugin is not installed**
   If the plugin is successfully installed, open the settings page and search for aiXcoder to find the corresponding settings page. If you cannot find this page, it is that the plugin is not installed.
 * Reason 2: **Local service did not download / unzip successfully**
