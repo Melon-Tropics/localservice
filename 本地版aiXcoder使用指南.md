@@ -9,6 +9,8 @@ aiXcoder提供代码提示和代码搜索两个主要功能。
 
 请参考我们的本地版下载页面： https://aixcoder.com/#/local
 
+或者从插件市场下载 [IntelliJ](https://plugins.jetbrains.com/plugin/13574-aixcoder-ai-completion/), [Eclipse](https://marketplace.eclipse.org/content/aixcoder-ai-code-completer), [VS Code](https://marketplace.visualstudio.com/items?itemName=aixcoder-plugin.aixcoder&ssr=false#overview).
+
 插件在安装之后，第一次启动IDE或激活插件的时候会自动下载本地服务。
 
 ## 离线安装
