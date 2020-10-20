@@ -119,4 +119,5 @@ tar xf server-linux.tar.gz -C "~/aiXcoder/installer/localserver/current/server"
   如果这个目录里文件很少的话（少于23个），那就是解压没有成功。这可能是权限或磁盘空间导致的，可以考虑手动下载安装一下试试。
 * 原因三：**本地服务没有启动**
   一般来说打开编辑器，一写代码，提示框弹出的时候本地服务就会自动启动了。如果没有启动的话，到“原因三”的目的目录中找到aixcoder.bat或aixcoder.sh，直接执行，也许能看出问题在哪。
-  还有问题的话，加入我们的qq群：智能编程交流2群 892015062
+
+如果还有问题的话，加入我们的qq群（892015062），或者直接在 [aiXcoder Issue Tracker](https://github.com/aixcoder-plugin/issue-tracker) 中提交问题，我们将尽快处理与解决这些 Issues。
