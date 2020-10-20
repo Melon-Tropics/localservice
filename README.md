@@ -14,19 +14,19 @@ After the plugin is installed, the local service will be downloaded automaticall
 
 AiXcoder Local is divided into two parts, one is a plug-in, and the other is a background service.
 
-Step 1: Download the plugin
+### Step 1: Download the plugin
 
 The plugins is installed to your IDE or editor. You can download the installation package of the plugin here according to the type of your IDE or editor:
 
 Download [IntelliJ](https://plugins.jetbrains.com/plugin/13574-aixcoder-ai-completion/), [Eclipse](https://marketplace.eclipse.org/content/aixcoder-ai-code-completer), [VS Code](https://marketplace.visualstudio.com/items?itemName=aixcoder-plugin.aixcoder&ssr=false#overview) plug-in packages.
 
-Step 2: Download the background service
+### Step 2: Download the background service
 
 https://github.com/aixcoder-plugin/localservice/releases
 
 You can find our latest version here. Download the corresponding server-win.zip (x64 Windows 7 and above), server-osx.zip (Mac OS X) or server-linux.tar.gz (tested on Ubuntu 18.04LTS).
 
-Step 3: Install the plugin
+### Step 3: Install the plugin
 
 IDEA/PyCharm/Android Studio：
 
@@ -42,11 +42,10 @@ Eclipse requires you to copy the downloaded jar to "dropins" folder under Eclips
 
 ![Copy jar to dropins folder](https://github.com/aixcoder-plugin/localservice/raw/master/eclipse-installed.png)
 
-Step 4: Install the service
+### Step 4: Install the service
 
 Unzip the downloaded compressed archive and place the files inside the following directories. You need to manually create these directories.
 
-***
 
 Windows
 
@@ -116,4 +115,5 @@ There are many reasons for this phenomenon, we can check them one by one:
   If there are few files in this directory (less than 23), it is that the extraction was unsuccessful. This may be caused by permissions or disk space. You can consider manually downloading and installing it.
 * Reason 3: **Local service is not started**
   Generally, when you open the editor and write the code, the local service will start automatically when the prompt box pops up. If it is not started, find the aixcoder.bat or aixcoder.sh in the destination directory of "Cause Three" and execute it directly. You may be able to see where the problem is.
-  If you still have questions, e-mail us at support@aixcoder.com.
+
+If you still have questions, e-mail us at support@aixcoder.com and report questions/problems on [aiXcoder Issue Tracker](https://github.com/aixcoder-plugin/issue-tracker).
