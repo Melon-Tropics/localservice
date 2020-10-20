@@ -17,19 +17,20 @@ aiXcoder提供代码提示和代码搜索两个主要功能。
 
 aiXcoder本地版分为两个部分，一个是插件，一个是服务程序。
 
-第一步：下载插件
+### 第一步：下载插件
 
 插件是安装到您的IDE或编辑器，您可以根据您的IDE或编辑器的种类，在这里下载插件的安装包：
 
-这里插入intellij，eclipse，vscode的插件包。
+[IntelliJ](https://plugins.jetbrains.com/plugin/13574-aixcoder-ai-completion/)、[Eclipse](https://marketplace.eclipse.org/content/aixcoder-ai-code-completer)、[VS Code](https://marketplace.visualstudio.com/items?itemName=aixcoder-plugin.aixcoder&ssr=false#overview)
 
-第二步：下载服务
+
+### 第二步：下载服务
 
 https://github.com/aixcoder-plugin/localservice/releases
 
 在这里可以找到我们最新的版本。下载对应的server-win.zip（x64 Windows 7及以上），server-osx.zip（Mac OS X）或server-linux.tar.gz（在Ubuntu 18.04LTS上测试过）。
 
-第三步：安装插件
+### 第三步：安装插件
 
 IDEA/PyCharm/Android Studio：
 
@@ -45,11 +46,10 @@ Eclipse 安装需要将jar拷贝到Eclipse安装目录的dropins文件夹下：
 
 ![复制 jar 到 dropins 文件夹](https://github.com/aixcoder-plugin/localservice/raw/master/eclipse-installed.png)
 
-第四步：安装服务
+### 第四步：安装服务
 
 将下载下来的压缩包解压，把里面的文件放到以下目录，您需要手动创建这些中间目录。
 
-***
 
 Windows
 
