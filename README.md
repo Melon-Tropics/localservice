@@ -2,11 +2,11 @@
 
 Localized version: [中文版](https://github.com/aixcoder-plugin/localservice/blob/master/%E6%9C%AC%E5%9C%B0%E7%89%88aiXcoder%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
 
-AiXcoder Local is an AI-driven code completion tool. The supported programming languages ​​are Java and Python. IntelliJ IDEA, Eclipse, PyCharm, Android Studio, and Visual Studio Code (VS Code for short) are supported.
+AiXcoder Local is an AI-driven code completion tool. The supported programming languages are Java and Python. IntelliJ IDEA, Eclipse, PyCharm, Android Studio, and Visual Studio Code (VS Code for short) are supported.
 
 ## Install online
 
-Search "aiXcoder" on the plugin marketplace and install.
+Search "aiXcoder" on the plugin marketplace and install (See [Quick Start](https://github.com/aixcoder-plugin/doc/blob/master/README.md)).
 
 After the plugin is installed, the local service will be downloaded automatically when the IDE is started for the first time or when the plugin is activated.
 
@@ -18,7 +18,7 @@ AiXcoder Local is divided into two parts, one is a plug-in, and the other is a b
 
 The plugins is installed to your IDE or editor. You can download the installation package of the plugin here according to the type of your IDE or editor:
 
-Download [IntelliJ](https://plugins.jetbrains.com/plugin/13574-aixcoder-ai-completion/), [Eclipse](https://marketplace.eclipse.org/content/aixcoder-ai-code-completer), [VS Code](https://marketplace.visualstudio.com/items?itemName=aixcoder-plugin.aixcoder&ssr=false#overview) plug-in packages.
+Download [IntelliJ & PyCharm](https://plugins.jetbrains.com/plugin/13574-aixcoder-ai-completion/), [Eclipse](https://marketplace.eclipse.org/content/aixcoder-ai-code-completer), [VS Code](https://marketplace.visualstudio.com/items?itemName=aixcoder-plugin.aixcoder&ssr=false#overview) plug-in packages.
 
 ### Step 2: Download the background service
 
