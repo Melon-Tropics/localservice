@@ -1,4 +1,4 @@
-****GitHub上的aiXcoder本地服务已被弃用，新版本服务请从 https://aixcoder.com/#/localServer 下载。***
+***GitHub上的aiXcoder本地服务已被弃用，新版本服务请从 https://aixcoder.com/#/localServer 下载。***
 
 ***The aiXcoder local service hosted on GitHub has been deprectated, please download newer service from https://aixcoder.com/#/localServer .***
 
