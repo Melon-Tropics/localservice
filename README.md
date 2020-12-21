@@ -1,3 +1,7 @@
+*GitHub上的aiXcoder本地服务已被弃用，新版本服务请从 https://aixcoder.com/#/localServer 下载。*
+
+*The aiXcoder local service hosted on GitHub has been deprectated, please download newer service from https://aixcoder.com/#/localServer .*
+
 # AiXcoder Local User Guide
 
 Localized version: [中文版](https://github.com/aixcoder-plugin/localservice/blob/master/%E6%9C%AC%E5%9C%B0%E7%89%88aiXcoder%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
